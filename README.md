@@ -7,7 +7,7 @@ Focus Areas: What specific areas of the project did you prioritize? Why did you 
 
 1. Solid data layer: The networking and JSON parsing were important, because if the app can’t load recipes everything else falls apart.
 2. Images and caching: Because photos are the largest files, the app grabs a thumbnail only when its row comes into view, then saves it to disk. If you scroll back, it pulls the same image from storage instead of the internet, keeping scrolling smooth and saving data.
-3. Clean Testable structure: I kept logic in view models and services behind simple protocols, so I could write unit tests without touching the UI. I did this to make sure the core pieces work before I worried about polish.
+3. Clean testable structure: I kept logic in view models and services behind simple protocols, so I could write unit tests without touching the UI. I did this to make sure the core pieces work before I worried about polish.
    
 Time Spent: Approximately how long did you spend working on this project? How did you allocate your time?
 
