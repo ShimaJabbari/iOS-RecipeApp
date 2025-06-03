@@ -2,6 +2,7 @@
 
 Summary: Include screen shots or a video of your app highlighting its features. 
 
+https://drive.google.com/file/d/1cKzUM6BWjsTO9DRoxDzrQlk_714Jf4mK/view?usp=share_link
 
 Focus Areas: What specific areas of the project did you prioritize? Why did you choose to focus on these areas?
 
